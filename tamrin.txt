@@ -9,7 +9,7 @@ a*b
 
 %----------------
 %Second Sample
-
+%arman azimi
 
 a=[12 8;4 3]
 b=[5 9; 2 7]
